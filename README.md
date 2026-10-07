@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/dulkemot/count.svg" alt="Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=dulkemot" alt="profile views" />
 </div>
 
 <br>
