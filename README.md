@@ -65,6 +65,16 @@
 ## 🚀 Latest Repos (auto-update harian)
 
 <!-- REPOS:START -->
+| Repo | Deskripsi | Bahasa | Bintang |
+|---|---|---|---|
+| [company-profile-starter](https://github.com/dulkemot/company-profile-starter) | - | Astro | ⭐ 0 |
+| [belajar-mikrotik](https://github.com/dulkemot/belajar-mikrotik) | - | HTML | ⭐ 0 |
+| [belajar-k8s](https://github.com/dulkemot/belajar-k8s) | - | HTML | ⭐ 0 |
+| [portfolio](https://github.com/dulkemot/portfolio) | - | Astro | ⭐ 0 |
+| [tiket-teknisi](https://github.com/dulkemot/tiket-teknisi) | - | Astro | ⭐ 0 |
+| [subnet-kalkulator](https://github.com/dulkemot/subnet-kalkulator) | - | Astro | ⭐ 0 |
+| [katalog-mobile](https://github.com/dulkemot/katalog-mobile) | - | Astro | ⭐ 0 |
+| [docker-selfhosted-stack](https://github.com/dulkemot/docker-selfhosted-stack) | - | - | ⭐ 0 |
 <!-- REPOS:END -->
 
 ## ⚡️ Stats
