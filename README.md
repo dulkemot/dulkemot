@@ -31,6 +31,18 @@
 
 <hr>
 
+## 🌐 Portfolio
+
+<div align="center">
+  <a href="https://dulkemot.github.io/portfolio/" target="_blank">
+    <img src="assets/portfolio.png" alt="Portfolio M. Jaenussolihin — klik untuk buka" />
+  </a>
+  <br />
+  <a href="https://dulkemot.github.io/portfolio/" target="_blank"><b>⬆ Klik gambar untuk buka portfolio ⬆</b></a>
+</div>
+
+<hr>
+
 ## 🛠️ Languages and Tools
 
 <br>
