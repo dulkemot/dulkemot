@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=38&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+dulkemot!;" />
 </h1>
 
-### A web developer passionate about building fast, functional, and user-centric websites.
+### A web developer passionate about building fast, functional, and user-centric websites and applications.
 
 - 🌱 I'm currently learning **Astro, System Design**
 - 💬 Ask me about **JavaScript, Astro, Company Profile... or anything [here](https://github.com/dulkemot/dulkemot/issues)**
