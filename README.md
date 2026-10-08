@@ -48,17 +48,24 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,astro,nodejs,html,css,tailwind,git,figma" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,kubernetes,proxmox,grafana,prometheus,nginx,cloudflare,laravel,git" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MikroTik-FF8A00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
 </p>
 
 <hr>
 
-## 🚀 Featured Repos
+## 🚀 Latest Repos (auto-update harian)
 
-| Repo | Stack | Deskripsi |
-|---|---|---|
-| [portfolio](https://github.com/dulkemot/portfolio) | Astro, JS | Personal portfolio live + showcase 3 project |
-| [company-profile-starter](https://github.com/dulkemot/company-profile-starter) | Astro, Static | Starter company profile 4 halaman, hero video, katalog statis |
+<!-- REPOS:START -->
+<!-- REPOS:END -->
 
 ## ⚡️ Stats
 

@@ -1,0 +1,40 @@
+name: Update latest repos
+on:
+  schedule:
+    - cron: "0 1 * * *" # tiap hari 08:00 WIB
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require("fs");
+            const { data: repos } = await github.rest.repos.listForUser({
+              username: context.repo.owner,
+              per_page: 100,
+              sort: "pushed",
+            });
+            const rows = repos
+              .filter(r => !r.fork && r.name !== context.repo.repo)
+              .slice(0, 8)
+              .map(r => {
+                const desc = (r.description || "-").replace(/\|/g, "\\|").replace(/\r?\n/g, " ");
+                return `| [${r.name}](${r.html_url}) | ${desc} | ${r.language || "-"} | ⭐ ${r.stargazers_count} |`;
+              });
+            const table = ["| Repo | Deskripsi | Bahasa | Bintang |", "|---|---|---|---|", ...rows].join("\n");
+            const md = fs.readFileSync("README.md", "utf8");
+            const next = md.replace(
+              /<!-- REPOS:START -->[\s\S]*?<!-- REPOS:END -->/,
+              `<!-- REPOS:START -->\n${table}\n<!-- REPOS:END -->`
+            );
+            if (next !== md) fs.writeFileSync("README.md", next);
+      - name: Commit bila berubah
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet || (git add README.md && git commit -m "auto: update latest repos" && git push)
