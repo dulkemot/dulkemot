@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dulkemot" alt="profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dulkemot.dulkemot" alt="profile views" />
 </div>
 
 <br>
