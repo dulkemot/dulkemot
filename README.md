@@ -67,9 +67,9 @@
 <!-- REPOS:START -->
 | Repo | Deskripsi | Bahasa | Bintang |
 |---|---|---|---|
-| [company-profile-starter](https://github.com/dulkemot/company-profile-starter) | Template company profile Astro: hero video, katalog, tombol WA | Astro | ⭐ 0 |
-| [belajar-mikrotik](https://github.com/dulkemot/belajar-mikrotik) | Materi MikroTik Indonesia + kuis interaktif | HTML | ⭐ 0 |
 | [belajar-k8s](https://github.com/dulkemot/belajar-k8s) | Materi Kubernetes Indonesia + landing page | HTML | ⭐ 0 |
+| [belajar-mikrotik](https://github.com/dulkemot/belajar-mikrotik) | Materi MikroTik Indonesia + kuis interaktif | HTML | ⭐ 0 |
+| [company-profile-starter](https://github.com/dulkemot/company-profile-starter) | Template company profile Astro: hero video, katalog, tombol WA | Astro | ⭐ 0 |
 | [portfolio](https://github.com/dulkemot/portfolio) | Portfolio M. Jaenussolihin - IT Infrastructure & Network | Astro | ⭐ 0 |
 | [tiket-teknisi](https://github.com/dulkemot/tiket-teknisi) | Work-order teknisi lapangan offline (WA, CSV) | Astro | ⭐ 0 |
 | [subnet-kalkulator](https://github.com/dulkemot/subnet-kalkulator) | Kalkulator subnet IPv4 offline untuk teknisi | Astro | ⭐ 0 |
