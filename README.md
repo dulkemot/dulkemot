@@ -67,6 +67,7 @@
 <!-- REPOS:START -->
 | Repo | Deskripsi | Bahasa | Bintang |
 |---|---|---|---|
+| [logbook-noc](https://github.com/dulkemot/logbook-noc) | Buku laporan gangguan Internet/WiFi/CCTV (Laravel full-stack) | PHP | ⭐ 0 |
 | [belajar-k8s](https://github.com/dulkemot/belajar-k8s) | Materi Kubernetes Indonesia + landing page | HTML | ⭐ 0 |
 | [belajar-mikrotik](https://github.com/dulkemot/belajar-mikrotik) | Materi MikroTik Indonesia + kuis interaktif | HTML | ⭐ 0 |
 | [company-profile-starter](https://github.com/dulkemot/company-profile-starter) | Template company profile Astro: hero video, katalog, tombol WA | Astro | ⭐ 0 |
@@ -74,7 +75,6 @@
 | [tiket-teknisi](https://github.com/dulkemot/tiket-teknisi) | Work-order teknisi lapangan offline (WA, CSV) | Astro | ⭐ 0 |
 | [subnet-kalkulator](https://github.com/dulkemot/subnet-kalkulator) | Kalkulator subnet IPv4 offline untuk teknisi | Astro | ⭐ 0 |
 | [katalog-mobile](https://github.com/dulkemot/katalog-mobile) | Katalog produk mobile + order WhatsApp | Astro | ⭐ 0 |
-| [docker-selfhosted-stack](https://github.com/dulkemot/docker-selfhosted-stack) | Compose Caddy + monitoring + pola deploy Laravel | - | ⭐ 0 |
 <!-- REPOS:END -->
 
 ## ⚡️ Stats
