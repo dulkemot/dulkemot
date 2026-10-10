@@ -68,13 +68,13 @@
 | Repo | Deskripsi | Bahasa | Bintang |
 |---|---|---|---|
 | [portfolio](https://github.com/dulkemot/portfolio) | Portfolio M. Jaenussolihin - IT Infrastructure & Network | JavaScript | ⭐ 0 |
+| [minimarket-segar](https://github.com/dulkemot/minimarket-segar) | Minimarket Astro: katalog, promo, keranjang order WA | Astro | ⭐ 0 |
+| [notaris-amanah](https://github.com/dulkemot/notaris-amanah) | Web notaris: layanan, simulasi biaya, booking WA | Astro | ⭐ 0 |
+| [toko-besi-jaya](https://github.com/dulkemot/toko-besi-jaya) | Toko besi Astro: katalog + kalkulator kebutuhan | Astro | ⭐ 0 |
 | [profil-hotel-bootstrap](https://github.com/dulkemot/profil-hotel-bootstrap) | Landing hotel Bootstrap 5 + order WA | HTML | ⭐ 0 |
 | [inventaris-alat](https://github.com/dulkemot/inventaris-alat) | Stok gudang teknik PHP native + SQLite | PHP | ⭐ 0 |
 | [jadwal-shift](https://github.com/dulkemot/jadwal-shift) | Penjadwal shift tim teknisi (Node.js tanpa dependensi) | HTML | ⭐ 0 |
 | [logbook-noc](https://github.com/dulkemot/logbook-noc) | Buku laporan gangguan Internet/WiFi/CCTV (Laravel full-stack) | PHP | ⭐ 0 |
-| [belajar-k8s](https://github.com/dulkemot/belajar-k8s) | Materi Kubernetes Indonesia + landing page | HTML | ⭐ 0 |
-| [belajar-mikrotik](https://github.com/dulkemot/belajar-mikrotik) | Materi MikroTik Indonesia + kuis interaktif | HTML | ⭐ 0 |
-| [company-profile-starter](https://github.com/dulkemot/company-profile-starter) | Template company profile Astro: hero video, katalog, tombol WA | Astro | ⭐ 0 |
 <!-- REPOS:END -->
 
 ## ⚡️ Stats
