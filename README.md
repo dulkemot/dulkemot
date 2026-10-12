@@ -67,6 +67,7 @@
 <!-- REPOS:START -->
 | Repo | Deskripsi | Bahasa | Bintang |
 |---|---|---|---|
+| [belajar-k8s](https://github.com/dulkemot/belajar-k8s) | Materi Kubernetes Indonesia + landing page | HTML | ⭐ 0 |
 | [portfolio](https://github.com/dulkemot/portfolio) | Portfolio M. Jaenussolihin - IT Infrastructure & Network | JavaScript | ⭐ 0 |
 | [minimarket-segar](https://github.com/dulkemot/minimarket-segar) | Minimarket Astro: katalog, promo, keranjang order WA | Astro | ⭐ 0 |
 | [notaris-amanah](https://github.com/dulkemot/notaris-amanah) | Web notaris: layanan, simulasi biaya, booking WA | Astro | ⭐ 0 |
@@ -74,7 +75,6 @@
 | [profil-hotel-bootstrap](https://github.com/dulkemot/profil-hotel-bootstrap) | Landing hotel Bootstrap 5 + order WA | HTML | ⭐ 0 |
 | [inventaris-alat](https://github.com/dulkemot/inventaris-alat) | Stok gudang teknik PHP native + SQLite | PHP | ⭐ 0 |
 | [jadwal-shift](https://github.com/dulkemot/jadwal-shift) | Penjadwal shift tim teknisi (Node.js tanpa dependensi) | HTML | ⭐ 0 |
-| [logbook-noc](https://github.com/dulkemot/logbook-noc) | Buku laporan gangguan Internet/WiFi/CCTV (Laravel full-stack) | PHP | ⭐ 0 |
 <!-- REPOS:END -->
 
 ## ⚡️ Stats
